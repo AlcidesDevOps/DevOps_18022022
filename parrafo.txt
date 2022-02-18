@@ -1,3 +1,0 @@
-Parrafo de pruebas git
-Vamos a modificar algo de esta linea adciciono 1111111
-para probar la unión y la solución de conflictos en git segunda adicion en la linea
