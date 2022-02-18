@@ -1,4 +1,4 @@
 Mi nombre es Alcides Pimienta
-Soy Ingeniero de Sistemas
+Soy Ingeniero de Sistemas y especialista en Gerencia de las Telecomunicaciones
 Actualmente estamos realizando una prueba de git
 Hoy finalizamos el entrenamiento de DevOps
