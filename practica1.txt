@@ -1,0 +1,4 @@
+Mi nombre es Alcides Pimienta
+Soy Ingeniero de Sistemas
+Actualmente estamos realizando una prueba de git
+Hoy finalizamos el entrenamiento de DevOps
